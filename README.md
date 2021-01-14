@@ -2,11 +2,11 @@
 
 ### Nombre
 ---
-AyuntaApp (Equipo4/Reto3)
+AyuntApp (Equipo4/Reto3)
 
 ### Descripción y contexto
 ---
-AyuntaApp es una aplicación web multiplataforma basada en html, css, JavaScript, PHP, JSON/AJAX y Boostrap para la digitalización de los procedimientos relacionados con la tramitación de permisos de obra. En la cual los habitantes podrán formular solicitudes para reformas o nuevas construcciones. Dichas solicitudes serán administradas por un coordinador que las asignará a un técnico. El técnico se desplazará al lugar de la obra si fuese necesario y autorizará o deniegará la solicitud. La aplicación fue concebida inicialmente para el ayuntamiento de Vitoria-Gasteiz, pero al tratarse de código abierto siéntase libre de utilizarla como desee.
+AyuntApp es una aplicación web multiplataforma basada en html, css, JavaScript, PHP, JSON/AJAX y Boostrap para la digitalización de los procedimientos relacionados con la tramitación de permisos de obra. En la cual los habitantes podrán formular solicitudes para reformas o nuevas construcciones. Dichas solicitudes serán administradas por un coordinador que las asignará a un técnico. El técnico se desplazará al lugar de la obra si fuese necesario y autorizará o deniegará la solicitud. La aplicación fue concebida inicialmente para el ayuntamiento de Vitoria-Gasteiz, pero al tratarse de código abierto siéntase libre de utilizarla como desee.
 
   - Compatible con dispositivos de distintos tamaños.
   - Compatible con los navegadores más utilizados.
